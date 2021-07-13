@@ -11,7 +11,7 @@ Implemented:
 3. Has a toggle for allowing editing or not. To prevent accidentable modifications (default : false)
 4. Has easy to navigate panel to view all the contacts
 5. Automatically will fill data when contact is pressed
-6. Allows for access to quickly detecting similarities between the data
+6. Allows for access to quickly detecting similarities between the data (work in progress)
 
 Known Issues:
 - XML Validation doesn't successfully process JSON to XML.  This is because JSON doesn't have schemas conventions when organized. 
